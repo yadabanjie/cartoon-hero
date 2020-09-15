@@ -16,6 +16,8 @@ h1, h2{
 	font-family: 'Press Start 2P', cursive;
 }
 
+/* header styles*/
+
 header h1{
 	color: white;
 	font-size: 50px;
@@ -26,6 +28,8 @@ header img{
 	width: 300px;
     border: 20px solid white;
 }
+
+/*main styles*/
 
 main{
 	max-width: 800px;
@@ -50,6 +54,8 @@ a:hover{
 	color:white;
 	background-color: #483a94;
 }
+
+/*footer styles*/
 
 footer{
 	background-color: #d14635;
